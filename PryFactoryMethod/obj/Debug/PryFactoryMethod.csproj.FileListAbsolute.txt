@@ -1,0 +1,13 @@
+C:\Users\Ruth_n\Documents\Visual Studio 2012\Projects\PryFactoryMethod\PryFactoryMethod\bin\Debug\PryFactoryMethod.exe.config
+C:\Users\Ruth_n\Documents\Visual Studio 2012\Projects\PryFactoryMethod\PryFactoryMethod\obj\Debug\PryFactoryMethod.csprojResolveAssemblyReference.cache
+C:\Users\Ruth_n\Documents\Visual Studio 2012\Projects\PryFactoryMethod\PryFactoryMethod\obj\Debug\PryFactoryMethod.Form1.resources
+C:\Users\Ruth_n\Documents\Visual Studio 2012\Projects\PryFactoryMethod\PryFactoryMethod\obj\Debug\PryFactoryMethod.Properties.Resources.resources
+C:\Users\Ruth_n\Documents\Visual Studio 2012\Projects\PryFactoryMethod\PryFactoryMethod\obj\Debug\PryFactoryMethod.csproj.GenerateResource.Cache
+C:\Users\Ruth_n\Documents\Visual Studio 2012\Projects\PryFactoryMethod\PryFactoryMethod\bin\Debug\PryFactoryMethod.exe
+C:\Users\Ruth_n\Documents\Visual Studio 2012\Projects\PryFactoryMethod\PryFactoryMethod\bin\Debug\PryFactoryMethod.pdb
+C:\Users\Ruth_n\Documents\Visual Studio 2012\Projects\PryFactoryMethod\PryFactoryMethod\obj\Debug\PryFactoryMethod.exe
+C:\Users\Ruth_n\Documents\Visual Studio 2012\Projects\PryFactoryMethod\PryFactoryMethod\obj\Debug\PryFactoryMethod.pdb
+C:\Users\Ruth_n\Documents\Visual Studio 2012\Projects\PryFactoryMethod\PryFactoryMethod\obj\Debug\PryFactoryMethod.frmCirculo.resources
+C:\Users\Ruth_n\Documents\Visual Studio 2012\Projects\PryFactoryMethod\PryFactoryMethod\obj\Debug\PryFactoryMethod.frmCuadrado.resources
+C:\Users\Ruth_n\Documents\Visual Studio 2012\Projects\PryFactoryMethod\PryFactoryMethod\obj\Debug\PryFactoryMethod.frmRectangulo.resources
+C:\Users\Ruth_n\Documents\Visual Studio 2012\Projects\PryFactoryMethod\PryFactoryMethod\obj\Debug\PryFactoryMethod.frmTriangulo.resources
